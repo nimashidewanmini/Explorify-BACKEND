@@ -57,19 +57,18 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the Repository:
 ```sh
-  git clone https://github.com/your-username/TravelStory-BACKEND.git
-  cd TravelStory-BACKEND
+ https://github.com/nimashidewanmini/Explorify-BACKEND.git
 ```
 
 ## API Documentation
-Refer to the [Postman API Documentation](https://documenter.getpostman.com/view/example) for detailed API endpoints and usage instructions.
+Refer to the [Postman API Documentation](https://documenter.getpostman.com/view/35385603/2sAYdfrWnj) for detailed API endpoints and usage instructions.
 
 ## Frontend Repository
-Access the frontend repository on GitHub [here](https://github.com/your-username/TravelStory-FRONTEND.git).
+Access the frontend repository on GitHub [here](https://github.com/nimashidewanmini/Explorify-FRONTEND.git).
 
 ## License
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
-**Built with ❤️ by TravelStory Team**
+
 
